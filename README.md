@@ -15,7 +15,7 @@ It features:
 - **Train.csv** (2011 data)  
 - **Valid.csv** (January–April 2012)  
 - **Test.csv** (May–November 2012; missing sale prices)  
-- Data is sourced from the [Kaggle Bluebook for Bulldozers competition].  
+- Data is sourced from the [Kaggle Bluebook for Bulldozers competition](https://www.kaggle.com/c/bluebook-for-bulldozers/data).  
 
 ## Evaluation Metric  
 **Root Mean Squared Log Error (RMSLE)** is used for model evaluation — reflecting performance with penalization for large deviations.
