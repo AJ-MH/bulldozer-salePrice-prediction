@@ -31,12 +31,13 @@ It features:
    git clone https://github.com/AJ-MH/bulldozer-salePrice-prediction.git
    cd bulldozer-salePrice-prediction
 2. (Optional) Create and activate a virtual environment:
+    ```bash
    python -m venv env
    source env/bin/activate    # On Windows use `env\Scripts\activate`
-3. Install dependencies:
+4. Install dependencies:
    ```bash
    pip install -r requirements.txt
-4. Usage Guide
+5. Usage Guide
    1. Launch Jupyter
    2. Open and run the notebook
    3. Execute step-by-step:
